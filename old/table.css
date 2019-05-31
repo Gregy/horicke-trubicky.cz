@@ -1,0 +1,20 @@
+table {
+
+margin: 10px 10px 20px 130px;
+padding: .1em;
+font-size: 1.0em;
+background: none;
+color: #666;
+text-align: left;
+}
+
+table tr.sudy{
+	background: #FFFFCC;
+	color: #666;
+	text-align: left;
+}
+table tr.lichy{
+	background: #FFFFCC;
+	color: #666;
+	text-align: left;
+}
